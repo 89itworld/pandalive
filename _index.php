@@ -1,4 +1,5 @@
 <?php 
+//die('Kindly Point to www.pandacashback.com');
 /*******************************************************************\
  * CashbackEngine v1.1
  * http://www.CashbackEngine.net
